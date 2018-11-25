@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+ 	<title>U1810097</title>
+<link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+<header>
+<div class="container">	
+<div id="branding">
+<h1>Khamidullaev Ibratillo</h1>
+<p>ID U1810097 </p>
+<p>group SOCIE 18/7</p>
+<p>Email: khamidullaevibratillo@inha.uz </p>
+<p>ID U1810097 </p>
+
+<img src="img/Eagle.jpg" width="150"; height="200">
+</div>
+<nav>
+<ul>
+<li class="current"><a href="index.html">Home</a></li>
+<li><a href="movies.html">Movies</a></li>
+</ul>
+</nav>
+</header>
+<section id="showcase">
+<div class="container">
+	<h4>MY HOBBIES</h4>
+	<ul>Learning new and unknown topics.whenever I find some free time out of lessons and homeworks I usually try to learn subjects or topics in order to make my logical thinking better!</ul>
+	<img src="img/computer.jpg">
+	<ul>One of my favourite interest is playing & watching football.I have no any favourite team or player I'm just fan of interesting football matches.</ul>
+	<img src="img/brazzuca.jpg">
+	
+</div>
+</section>
+
+<footer>
+<p> Copyright &copy; Ibratillo Khamidullaev</p>
+</footer>
+
+</body>
+</html>
